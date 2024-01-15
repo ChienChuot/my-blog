@@ -64,7 +64,7 @@
 }
 
 
-.width-full {
+.width-f {
     width: 100%;
 }
 
@@ -97,6 +97,22 @@
     margin: 15px 0;
 }
 
+.m-l-16 {
+    margin-left: 16;
+}
+
+.m-r-16 {
+    margin-right: 16;
+}
+
+.float-l {
+    float: left;
+}
+
+.float-r {
+    float: right;
+}
+
 
 /* common end */
 
@@ -126,6 +142,32 @@
     padding-right: 4px;
 
 }
+
+.head-title {
+    padding-left: 16px;
+}
+
+
+.btn-lg{
+ margin-left: 15px;
+}
+
+.head-comemts-sp{
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.head-right{
+    padding-right: 16px;
+
+}
+
+
 #head {
 
 }
