@@ -113,15 +113,23 @@
     float: right;
 }
 
+.bg-b{
+    background-color: black ;
+}
+
 
 /* common end */
 
 
 #main {
     background-color: #f1f1f1;
-    z-index: -1;
-    height: 1000px;
+    z-index: -2;
+    height: auto;
 
+}
+
+.main-bg{
+    background-color: #cc9696;
 }
 .head-main{
     padding-top: 60px;
@@ -145,6 +153,10 @@
 
 .head-title {
     padding-left: 16px;
+}
+
+.blogEntry{
+    margin-top: 32px;
 }
 
 
@@ -202,6 +214,21 @@
     color: #000;
     padding: 16px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #head {
 
